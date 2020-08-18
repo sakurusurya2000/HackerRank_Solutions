@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+// github.com/sakurusurya2000
 
 static int gemstones(String[] array) {
     final int NUM_ELEMENTS = 26;
